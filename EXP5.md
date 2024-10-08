@@ -5,6 +5,7 @@
 ### AIM: 
 Write a python program for Binary Search and inspect for failures.
 
+
 ### Algorithm:
 1. Start the program. 
 2. Get the list from the user 
